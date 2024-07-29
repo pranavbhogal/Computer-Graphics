@@ -1,12 +1,13 @@
 Pranav Bhogal
 
 Programming Language used - Python3
-file containing main - CG_hw1
+file containing main - line-transformation-clipping
 
-line clipping function - lineClipping(transformedLines) in the file CG_hw1
+line clipping function - lineClipping(transformedLines) in the file line-transformation-clipping
+
 
 Running the executable - The python file has a shebang on top therefore it can be run without the need of a makefile.
-To run the file write: ./CG_hw1 "additional arguments here" > "output file name here"
+To run the file write: ./line-transformation-clipping "additional arguments here" > "output file name here"
 
 A simple makefile is provided to change the permissions of the executable and run the file with defualt argument values
 
