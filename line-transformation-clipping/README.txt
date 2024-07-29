@@ -1,5 +1,4 @@
 Pranav Bhogal
-CS-430 Assignment 1
 
 Programming Language used - Python3
 file containing main - CG_hw1
