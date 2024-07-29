@@ -1,0 +1,20 @@
+%!PS
+
+/m {moveto} bind def
+/l {lineto} bind def
+/cp {closepath} bind def
+/s {stroke} bind def
+/sg {setgray} bind def
+0.1 setlinewidth
+%%BeginSetup
+  << /PageSize [500 500] >> setpagedevice
+%%EndSetup
+
+%%%BEGIN
+300 150 m
+450 150 l
+450 499 l
+300 499 l
+300 150 l
+stroke
+%%%END
